@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+background: #f9f9f9;
+margin: 0.5rem 0;
+padding: 0.8rem;
+border: 1px solid #ddd;
+border-radius: 5px;
+}
+.contact a {
+color: #0066cc;
+text-decoration: none;
+}
+.btn {
+display: inline-block;
+margin-top: 1rem;
+padding: 0.6rem 1.2rem;
+background: #333;
+color: #fff;
+text-decoration: none;
+border-radius: 5px;
+}
+.btn:hover {
+background: #000;
+}
+footer {
+text-align: center;
+padding: 1rem;
+border-top: 1px solid #eee;
+font-size: 0.9rem;
+color: #666;
+}
+</style>
+</head>
+<body>
+<header>
+<h1>Bekbolat Baltureev</h1>
+<p>Web Developer & Programmer</p>
+</header>
+
+
+<section>
+<h2>About Me</h2>
+<p>
+I am a passionate web developer and programmer from Kazakhstan, with strong skills in creating clean, functional, and user-friendly solutions. My goal is to deliver high-quality digital services and help clients grow their online presence.
+</p>
+</section>
+
+
+<section>
+<h2>Skills</h2>
+<ul>
+<li>HTML, CSS, JavaScript</li>
+<li>Python Development</li>
+<li>Web Applications</li>
+<li>Responsive Design</li>
+<li>Database Basics (SQL)</li>
+</ul>
+</section>
+
+
+<section>
+<h2>Services</h2>
+<ul>
+<li>Website Development</li>
+<li>Frontend Design</li>
+<li>Basic Web Applications</li>
+<li>Portfolio & Resume Websites</li>
+</ul>
+</section>
+
+
+<section class="contact">
+<h2>Contact</h2>
+<p>Email: <a href="mailto:baltureevbekbolat9@gmail.com">baltureevbekbolat9@gmail.com</a></p>
+<a href="Bekbolat_Visual_Resume.pdf" class="btn" download>Download Resume (PDF)</a>
+</section>
+
+
+<footer>
+<p>&copy; 2025 Bekbolat Portfolio. All Rights Reserved.</p>
+</footer>
+</body>
+</html>
